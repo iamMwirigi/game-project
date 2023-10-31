@@ -57,7 +57,7 @@ tail	"003d0102"
 type	"Figure"
 4	
 amiiboSeries	"8-bit Mario"
-character	"Mario"
+character	"Mario"                             
 gameSeries	"Super Mario"
 head	"00000000"
 image	"https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-02380602.png"
